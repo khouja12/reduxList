@@ -1,0 +1,9 @@
+.task-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 4%;
+}
+.done{
+    text-decoration: line-through;
+}
